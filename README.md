@@ -59,4 +59,4 @@ All CLIs are Go projects targeting the `the20100` GitHub account. They output JS
 
 | CLI | Repo | Description |
 |-----|------|-------------|
-| youtube-data-cli | _(no remote yet)_ | YouTube Data API v3 — search YouTube, inspect videos, channels, playlists, and comments |
+| youtube-data-cli | [youtube-data-cli](https://github.com/the20100/youtube-data-cli) | YouTube Data API v3 — search YouTube, inspect videos, channels, playlists, and comments |
